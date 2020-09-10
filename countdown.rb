@@ -1,10 +1,10 @@
 #write your code here
 
 def countdown
-  countdown = 12
+  countdown = 0
  
   while countdown < 10
-  countdown -= 1
+  countdown -= 10
   puts "#{"countdown"} SECOND(S)!"
   end
  
